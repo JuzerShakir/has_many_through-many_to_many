@@ -1,4 +1,4 @@
-# Rails Association (has_and_belongs_to_many)
+# Rails Association (has_many_through-many_to_many)
 
 > Here is an [article](https://juzer-shakir.medium.com/rails-association-part-2-a563f870e415#e7da) that gives detailed explaination of this association with the following example: *`“A teacher takes exams of many students, where each student has many exams to give of different teachers.”`*
 
